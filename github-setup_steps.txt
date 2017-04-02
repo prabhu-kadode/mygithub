@@ -1,0 +1,17 @@
+1> create your account on github.
+2>download git hub and install it.
+3>create repository on desktop for git hub which will be on remote.
+4> Drag that repository on github isntalled software.
+5> publish it .
+6> syncronise it .
+you are done .
+
+after this,
+7>open github shell which is on your desktop.
+8>move to desktop repository through github shell.
+9>use following commands to push file from desktop repositroy to remove github.
+1>git add .
+2>git commit -m "added"
+3>git push origin 
+
+and you are done...
