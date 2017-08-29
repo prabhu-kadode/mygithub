@@ -21,7 +21,7 @@ if(isset($_POST['varify']))
 ?>
 <html>
 <head>
-<title>Captch creation</title>
+<title>Captch creationp</title>
 </head>
 <body>
 <form action ="" method="post">
