@@ -10,8 +10,8 @@ after this,
 7>open github shell which is on your desktop.
 8>move to desktop repository through github shell.
 9>use following commands to push file from desktop repositroy to remove github.
-1>git add .
-2>git commit -m "added"
-3>git push origin 
+1>git add "a\a.php"  //when you want to add new folder to git.
+2>git commit -m "added" // when you want to commit changes made in files...
+3>git push origin master  // when you want to push committed files on git remote.
 
 and you are done...
